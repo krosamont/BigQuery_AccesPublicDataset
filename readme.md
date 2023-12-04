@@ -11,7 +11,7 @@ Pour activer le niveau d'utilisation gratuit, procédez comme suit :
 1. Allez sur le site suivant: https://cloud.google.com/bigquery/
 2. Dans la console Google Cloud Platform, ouvrez le menu **Menu**, puis sélectionnez **BigQuery**.
 
-!()[image/BigQuery_init1.gif]
+![](image/BigQuery_init1.gif)
 Vous pouvez utiliser les données d'autres entrepôts de données.
 
 Pour charger des données dans BigQuery, procédez comme suit :
@@ -20,7 +20,7 @@ Pour charger des données dans BigQuery, procédez comme suit :
 2. Tapez Austin par exemple.
 3. Cliquez sur “Recherchez dans tous les projet”
 4. Cliquez sur l’étoile de “bigquery-public-dataset” afin que le projet soit épinglé.
-!()[image/BigQuery_init2.gif]
+![](image/BigQuery_init2.gif)
 
 A présent, vous pouvez voir les données qui sont dans le projet bigquery-public-dataset. Vous pouvez choisir un ensemble de données puis choisir les tables et les interroger.
 
@@ -31,7 +31,7 @@ Pour effectuer une requête dans BigQuery, procédez comme suit :
 3. Cliquez **Interroger**.
 4. Entrez votre requête SQL.
 5. Cliquez sur le bouton **Exécuter**.
-!()[image/BigQuery_init3.gif]
+![](image/BigQuery_init3.gif)
 
 Voici un exemple de requête SQL simple :
 
